@@ -48,10 +48,9 @@ My work moves between backend services, automation, realtime applications, compu
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/gzeloni/genpass">genpass</a></h3>
+      <h3><a href="https://github.com/gzeloni/orich">Orich</a></h3>
       <p>
-        An over-engineered password generator written in Go.
-        Built for generating passwords that look better than random visual noise.
+        Orich is a small scripting language for text automation and structured output generation.
       </p>
     </td>
   </tr>
