@@ -48,9 +48,9 @@ My work moves between backend services, automation, realtime applications, compu
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/gzeloni/orich">Orich</a></h3>
+      <h3><a href="https://github.com/gzeloni/orich">Nodia</a></h3>
       <p>
-        Orich is a small scripting language for text automation and structured output generation.
+        Nodia is a small but powerfull language for text manipulation.
       </p>
     </td>
   </tr>
